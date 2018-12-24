@@ -1,0 +1,26 @@
+.stage {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    margin: 10px;
+    padding: 5px;
+    background-color: #FFE4E1;
+    border-radius: 5px;
+    text-align: center;
+    min-width: 400px;
+    border-radius: 20px;
+}
+
+.stage-name {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.task-list {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+}
+
